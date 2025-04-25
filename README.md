@@ -10,6 +10,10 @@ The project demonstrates key software engineering concepts through:
 - **Weapon Purchasing and Deployment**: Players can strategically place weapons on the battlefield to defend their district.
 - **Strategic Lane Defense**: Each wave brings more challenging titans, requiring smart weapon placement and strategic decisions.
 
+![Screen 1](./screen%201.png)
+
+
+
 ### Technical Implementation:
 - **Java 17 & JavaFX**: The game is built using Java 17 and **JavaFX** for the graphical user interface, providing a seamless, interactive gameplay experience.
   
@@ -48,5 +52,3 @@ To run **Attack on Titan: Utopia** locally, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/AttackOnTitans-OOP-Game.git
-
-![Alt text](./screen1.png)
