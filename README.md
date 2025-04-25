@@ -48,3 +48,5 @@ To run **Attack on Titan: Utopia** locally, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/AttackOnTitans-OOP-Game.git
+
+![Alt text](./screen1.png)
