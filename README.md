@@ -12,7 +12,7 @@ The project demonstrates key software engineering concepts through:
 
 ![Screen 1](./screen%201.png)
 
-
+![Screen 6](./screen%206.png)
 
 ### Technical Implementation:
 - **Java 17 & JavaFX**: The game is built using Java 17 and **JavaFX** for the graphical user interface, providing a seamless, interactive gameplay experience.
